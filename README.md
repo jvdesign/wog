@@ -1,7 +1,3 @@
-Ez egy professzionális, látványos és informatív `README.md` tervezet a **Wrath of Gedeon (WogTD)** játékoz. Mivel a forráskód nem publikus, a dokumentáció a játékélményre, a technikai különlegességekre és a telepítésre fókuszál.
-
----
-
 # Wrath of Gedeon (WogTD)
 
 ![Version](https://img.shields.io/badge/version-0.5.1--pre--alpha-orange)
